@@ -1,0 +1,188 @@
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\concrt140.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\cvextern.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_1.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_2.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\concrt140.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\cvextern.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_1.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_2.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\x86\vcruntime140.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe.config
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\PictureTracking.pdb
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\ZedGraph.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.xml
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.xml
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\ZedGraph.xml
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Form1.resources
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Properties.Resources.resources
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.CopyComplete
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.exe
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.pdb
+C:\Users\USER\Desktop\SoftwareDevelop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.TemplateGrab.resources
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\concrt140.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\cvextern.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_1.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_2.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_codecvt_ids.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140_1.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\concrt140.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\cvextern.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_1.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_2.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_codecvt_ids.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\x86\vcruntime140.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe.config
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\PictureTracking.pdb
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\ZedGraph.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.xml
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\ZedGraph.xml
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csprojAssemblyReference.cache
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Form1.resources
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Properties.Resources.resources
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.TemplateGrab.resources
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.GenerateResource.cache
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.CopyComplete
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.exe
+C:\Users\Ken\Desktop\PictureTracking\PictureTracking\obj\Debug\PictureTracking.pdb
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\concrt140.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\cvextern.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_1.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_2.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_codecvt_ids.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140_1.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\concrt140.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\cvextern.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_1.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_2.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_codecvt_ids.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\x86\vcruntime140.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe.config
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\PictureTracking.pdb
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\ZedGraph.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.xml
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.xml
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\ZedGraph.xml
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\de\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\es\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\fr\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\hu\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\it\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\ja\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\pt\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\ru\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\sk\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\sv\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\tr\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csprojAssemblyReference.cache
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Form1.resources
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Properties.Resources.resources
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.TemplateGrab.resources
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.GenerateResource.cache
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.CopyComplete
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.exe
+D:\SoftwareDevelop\Rick\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.pdb
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\concrt140.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\cvextern.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_1.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_2.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\msvcp140_codecvt_ids.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\opencv_videoio_ffmpeg420_64.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x64\vcruntime140_1.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\concrt140.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\cvextern.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_1.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_2.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\msvcp140_codecvt_ids.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\opencv_videoio_ffmpeg420.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\x86\vcruntime140.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe.config
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\PictureTracking.exe
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\PictureTracking.pdb
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\ZedGraph.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.UI.xml
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\Emgu.CV.World.NetStandard.xml
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\ZedGraph.xml
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\de\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\es\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\fr\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\hu\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\it\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\ja\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\pt\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\ru\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\sk\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\sv\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\tr\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csprojAssemblyReference.cache
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Form1.resources
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.Properties.Resources.resources
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.TemplateGrab.resources
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.GenerateResource.cache
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.csproj.CopyComplete
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.exe
+D:\桌面資料夾\科毅軟體開發資料夾\Rick Develop\Developing\PictureTracking\PictureTracking\obj\Debug\PictureTracking.pdb
